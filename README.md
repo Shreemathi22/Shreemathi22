@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shreemathi22 MSc Data Science student I'm a 3rd year Data Science student, always fueled by curiosity and a zest for exploring diverse subjects.
+- 👋 Hi, I’m @Shreemathi22 3rd year Data Science student, always fueled by curiosity and a zest for exploring diverse subjects.
 - My true passion lies in leveraging technology to spark innovation and make a real impact.
 - I thrive in dynamic environments that challenge me, using my skills to tackle complex problems head-on.
   
