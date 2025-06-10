@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shreemathi22 3rd year Data Science student, always fueled by curiosity and a zest for exploring diverse subjects.
+- 👋 Hi, I’m @Shreemathi22 Final Year Data Science student, always fueled by curiosity and a zest for exploring diverse subjects.
 - My true passion lies in leveraging technology to spark innovation and make a real impact.
 - I thrive in dynamic environments that challenge me, using my skills to tackle complex problems head-on.
   
@@ -7,11 +7,17 @@
 - 🌱 I’m currently learning LLM's , Web Development
 
 - Skills:
-- Languages -Python , SQL
+- Languages -Python , SQL , R
 - Frameworks -Tensorflow, NLTK
 - DataBase - MYSQL
-- Tableau
+- Tableau , Power BI
 - Machine learning
+- Neural Networks
+- Deep Learning
+- Natural Language Processsing
+- Cryptography
+- Data Analytics
+- Predictive Analytics
 
 🚀 Excited about leveraging Machine Learning, Recurrent Neural Networks (RNN), and Natural Language Processing (NLP) to solve diverse and challenging problems.
 💡 Proven experience in projects spanning Customer Segmentation, Named Entity Recognition, Text Generation, and more.
