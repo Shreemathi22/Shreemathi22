@@ -24,7 +24,7 @@
 🌐 Committed to creating innovative solutions that push the boundaries of what's possible in the world of AI.
 🔧 Let's collaborate on cutting-edge projects that harness the power of language and data to drive meaningful outcomes. Open to new challenges and opportunities!
 
-- 📫 How to reach me : Email: shreemathi@gmail.com
+- 📫 How to reach me : Email: shreemathi2207@gmail.com
   
 - 😄 Pronouns: she/her
 
